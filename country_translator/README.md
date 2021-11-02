@@ -13,7 +13,7 @@ python translator.py germany,france,italy
 ```
 
 
-![Traducciones](/imgs/translate_results.png)
+![Traducciones](/country_translator/imgs/translate_results.png)
 
 ### Datos
 
@@ -32,5 +32,5 @@ conda install -c conda-forge requests
 python get_countries_data.py
 ```
 
-![Data script](/imgs/data_script.png)
+![Data script](/country_translator/imgs/data_script.png)
 
